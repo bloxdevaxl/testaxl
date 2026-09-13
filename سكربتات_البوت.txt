@@ -1,0 +1,431 @@
+Blox Fruits
+Neru Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NeroHubClub/AutoMythicFruitFinder/refs/heads/main/NeroHubFruitFinder"))()
+
+Redz Hub (Main)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tlredz/Scripts/refs/heads/main/main.luau"))()
+
+Teddy Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Teddyseetink/Haidepzai/refs/heads/main/TeddyHub.lua"))()
+
+Vxeze Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dex-Bear/Vxezehub/refs/heads/main/VxezeHubMain"))()
+
+Raito Hub (Delta)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Efe0626/RaitoHub/main/Script"))()
+
+Speed Hub X
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua"))()
+
+Than Hub (jjSploit)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/thantzy/thanhub/refs/heads/main/thanv1"))()
+
+Banana Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nghia11n/Banana-Hub/main/bananahub.lua"))()
+
+Hoho Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"))()
+
+BlueX Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-BlueX/BlueX-Hub/refs/heads/main/Main.lua"))()
+
+Redz Hub (Source)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))()
+
+Redz Hub (v9999)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
+
+QuantumOnyx Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/flazhy/QuantumOnyx/refs/heads/main/QuantumOnyx.lua"))()
+
+Maru Hub (KimP)
+getgenv().Team = "Marines"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/KimP/refs/heads/main/MaruHub"))()
+
+Maru x Hub Free
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NinoGod/Free-Script/main/Maru-x-Hub-Free.lua"))()
+
+AnDepZai Hub Mobile
+loadstring(game:HttpGet("https://raw.githubusercontent.com/h6hbii/AnDepZaiHub/refs/heads/main/AndepzaiHub.lua"))()
+
+Cokka Hub Solara
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UserDevEthical/Loadstring/main/CokkaHub.lua"))()
+
+TuanAnhIOS Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AnhTuanDzai-Hub/TuanAnhIOS/refs/heads/main/TuanAnhIOS-Main.Lua"))()
+
+Zenith Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LookP/Roblox/refs/heads/main/ZenithHUB%20ZC%20Rivals"))()
+
+Min Hub V4
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JonnyCheeser/bloxfruits/main/minhubv4"))()
+
+Luarmor Loader #1
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/80a557829defe42d381746809857e884.lua"))()
+
+DatThg Hub V2
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/DatThg/refs/heads/main/DatThgV2"))()
+
+Aurora Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jadelly261/BloxFruits/main/Aurora", true))()
+
+Alchemy Hub
+loadstring(game:HttpGet("https://scripts.alchemyhub.xyz"))()
+
+Banana Cat Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/BananaHub.lua"))()
+
+Luarmor Loader #2
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/513ccdb3ae8a61d4d7698fc337e5256d.lua"))()
+
+
+Steal an Egg
+AXL Hub Free (الأفضل)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bloxdevaxl/AXL-HUB-LUAU/refs/heads/main/AxlHubEggFree.luau"))()
+
+Decode Hub v1.4.12
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ItzYumi/Decode/refs/heads/main/DE%3ACODE.lua", true))()
+
+Ouroboros Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/joustingmatch/Ouroboros/main/loader.lua"))()
+
+Night Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WhiteX1208/Scripts/refs/heads/main/StealAnEggs.luau"))()
+
+CloverHub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ryuun0x/Clover/refs/heads/main/main.lua"))()
+
+Ajjans Hub
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/359e97f8618e9008afe5f496184ebb7c.lua"))()
+
+Potato Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/potatohub67/potatoscripts/refs/heads/main/stealaegg.lua"))()
+
+Spiritual Gaming Hub
+loadstring(game:HttpGet("https://gist.githubusercontent.com/spiritualgaming1123-beep/f2c8c4009b2c4d4dda1b3d5fcb263ef3/raw/121ff8c9b59476a7a362b543edc61499e5832937/gistfile1.lua"))()
+
+Axurs Games Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XE3Scripts/Axur-sGamesHub/refs/heads/main/StealAnEgg"))()
+
+Lumin Hub
+loadstring(game:HttpGet("http://luminon.top/loader.lua"))()
+
+Wis Hub
+loadstring(game:HttpGet("https://api.wishub.cloud/files/loader.lua"))()
+
+Chiyo Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kaisenlmao/loader/refs/heads/main/chiyo.lua"))()
+
+Asvra Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/asvraRoblox/stealegg/refs/heads/main/main"))()
+
+UlamHUB
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/4fa5547b587b1f3110ad121fd9650a8256ed00c0c73ae49ecf07d2130a206125/download"))()
+
+Mobile Hub Auto Steal
+loadstring(game:HttpGet("https://rscripts.net/raw/auto-steal-egg-auto-go-back-to-base-auto-place-eggs-and-more_1786067954070_F3UaHDdqbT.txt"))()
+
+Open Source GUI
+loadstring(game:HttpGet("https://rscripts.net/raw/auto-steal-auto-hatch-upgrade-treadmill-auto-sell_1786088210969_Gtt85k5qK1.txt"))()
+
+Airflow Hub
+loadstring(game:HttpGet("https://airflowscript.com/loader"))()
+
+SaiOps Hub
+loadstring(game:HttpGet("https://api.saiops.cc/scripts/Steal-An-Egg-Script.lua"))()
+
+SportsClub Hub
+loadstring(game:HttpGet("https://loader.sportsclub.fun/loader.luau"))()
+
+BigFroot Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hanniii1/Loader/refs/heads/main/BFLoader.lua"))()
+
+Probest Hub
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/0199b576f5c2d5a34159f0f9f4e1de0a566b4d1da5b1cfa5d2f71ade9bdcaa24/download"))()
+
+S0ftKillz
+loadstring(game:HttpGet("https://pastebin.com/raw/ZuEBwb5K"))()
+
+Yuri Hub
+_G.autoExec = false
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iLove-yuri/leeeeesbian/refs/heads/main/homumado.lua"))()
+
+Nasi Rendang Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JualNasiRendang/loader/refs/heads/main/main.lua"))()
+
+OMG Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Omgshit/Scripts/main/MainLoader.lua"))()
+
+Speed Hub X v1.1.3
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
+
+Nova Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NovaHubRBLX/NovaHub/refs/heads/main/novahub.lua"))()
+
+ScriptVerse Hub
+loadstring(game:HttpGet("https://scriptversekey.xyz/s/steal-an-egg-pet-spawner"))()
+
+NEOX Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/loader", true))()
+
+Axon Hub
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/97c3f6db55a2cf72141537a85458e5a7.lua"))()
+
+Fishy Hub
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/4965c0d52f5d1dde43256d20cb1f511f225b45a1b370fccc4e6ba7252df76d88/download"))()
+
+Infinite Yield Admin
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+
+
+Steal a Brainrot
+Chilli Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tienkhanh1/spicy/main/Chilli.lua"))()
+
+Ugly Hub
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/53325754de16c11fbf8bf78101c1c881.lua"))()
+
+Admin Panel Script
+loadstring(game:HttpGet("https://pastebin.com/raw/MQ9kB1nv"))()
+
+ZZZZ Hub
+script_key="PUT YOUR KEY HERE";loadstring(game:HttpGet("https://pastefy.app/DHyT4Zoi/raw"))()
+
+Ajjan Hub
+loadstring(game:HttpGet("https://pastebin.com/raw/c4Ckn6Qg", true))()
+
+Infinite Luck
+loadstring(game:HttpGet("https://pastebin.com/raw/q6vdLyXY"))()
+
+Umbrella Hub
+loadstring(game:HttpGet("https://pastebin.com/raw/zcsR8znn", true))()
+
+Moondiety Hub
+loadstring(game:HttpGet("https://pastefy.app/3Fu1IQxK/raw", true))()
+
+AlchemyHub SAB
+loadstring(game:HttpGet("https://pastebin.com/raw/FmDrhT3m"))()
+
+Rinns Hub
+loadstring(game:HttpGet("https://pastefy.app/k1qTmQx4/raw", true))()
+
+Frostware Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jake-Brock/Scripts/main/Fw%20SAB.lua",true))()
+
+Lemon Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JSCRIPTZs/SabKDML/refs/heads/main/v1"))()
+
+Rayfield Script
+loadstring(game:HttpGet("https://gist.githubusercontent.com/chillsmartie-sys/31e2d5296a91eae67bd5bde6e7d3ddcf/raw"))()
+
+Light Hub
+loadstring(game:HttpGet("https://pastefy.app/B0oeOAsg/raw"))()
+
+Nameless Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jfdedit3/Mada-hub/main/Nameless%20hub"))()
+
+Echo Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/acesolos/Echo/refs/heads/main/hehe"))()
+
+Miranda Script
+loadstring(game:HttpGet("https://pastefy.app/ur5hn7LW/raw",true))()
+
+Trax Spawner Visual
+loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/visual2.lua"))()
+
+xWare Spawner
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tiktoksklf/xwarecheat/main/xwarecheat.lua", true))()
+
+SAB Auto Buy & ESP
+loadstring(game:HttpGet("https://pastebin.com/raw/2WEXn2UR"))()
+
+Gumanba Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/StealaBrainrot", true))()
+
+Fadhen Gaming (Delta)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/motonik-heldoaxxyy/Project-9393-_-2-8-_-93-_04-2-9-38-8_-8-/refs/heads/main/Protected_7996956131026915.lua.txt"))()
+
+Ghost Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GhostPlayer352/Test4/main/GhostHub"))()
+
+Tbao Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/game/refs/heads/main/TbaoHubStealBranrot"))()
+
+Anti-Kick Script
+loadstring(game:HttpGet("https://pastebin.com/raw/8hTsiFLN"))()
+
+Moon Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KaspikScriptsRb/steal-a-brainrot/refs/heads/main/.lua"))()
+
+Luarmor OP Max Speed
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/705e9a93cc18214fb77ab95686a8dba9.lua"))()
+
+All in One Utility
+loadstring(game:HttpGet("https://gist.githubusercontent.com/snipcola/2be4691920e907c223243de4e9c277c3/raw/Steal%20a%20Brainrot.luau"))()
+
+LURK V4 Hacks
+loadstring(game:HttpGet("https://raw.githubusercontent.com/egor2078f/lurkhackv4/refs/heads/main/main.lua", true))()
+
+Super OP Insta Steal
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/53325754de16c11fbf8bf78101c1c881.lua"))()
+
+Y-Hub Instant Steal
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yue-os/script/refs/heads/main/Y-Hub"))()
+
+Instant Steal Base Lock
+loadstring(game:HttpGet("https://raw.githubusercontent.com/onliengamerop/Steal-a-brainrot/refs/heads/main/Protected_3771863424757750.lua.txt"))()
+
+Anti Kick Bypass
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Mjajas/ANTII/refs/heads/main/antikick.lua"))()
+
+EcstacyV2 Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ecstacyV2/EcstacyV2/refs/heads/main2/EcstacyV2Real"))()
+
+Generic SAB No Key
+loadstring(game:HttpGet("https://pastebin.com/raw/8xPiNRhB"))()
+
+Neox Hub SAB
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/StealABrainrot"))()
+
+Loader Scripts Hack
+loadstring(game:HttpGet("https://raw.githubusercontent.com/x2zu/loader/main/scripts.lua"))()
+
+RDX Auto Steal
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rdx222f/Scripts/refs/heads/main/StealABrainrot.lua"))()
+
+QuantumPulsar X
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Estevansit0/KJJK/refs/heads/main/PusarX-loader.lua"))()
+
+Keyless Mobile Script
+loadstring(game:HttpGet("https://pastefy.app/0CVCLFPZ/raw"))()
+
+Steal Everyone Brainrots
+loadstring(game:HttpGet("https://raw.githubusercontent.com/checkurasshole/Script/refs/heads/main/IQ"))()
+
+Gumanba MODDED
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/StealaBrainrotMOD", true))()
+
+Laserhun Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hamza3270308/Stealabrainrot/refs/heads/main/Laserhun.lua"))()
+
+StealScript Auto Lock
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hamza3270308/Stealabrainrot/refs/heads/main/StealScript.lua", true))()
+
+Easy Cash (Remove Walls)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gumanba/Scripts/main/StealaBrainrot"))()
+
+Ghost Hub Laserhun
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Akbar123s/Script-Roblox-/refs/heads/main/Script%20Brainrot%20New"))()
+
+OP Pastebin Script
+loadstring(game:HttpGet("https://pastebin.com/raw/mccy77qw"))()
+
+Polaris Hub
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/d7be76c234d46ce6770101fded39760c.lua"))()
+
+OP Script Keyless
+loadstring(game:HttpGet("https://pastefy.app/Zk7UIkDN/raw"))()
+
+Fenorik Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fenorik/FenorikHub/refs/heads/main/FenorikHubINIT.lua"))()
+
+Luarmor Instant Proximity
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/dc577b2b3c287a1c4b5c342317bb13c3.lua"))()
+
+Legend Hub Mobile & PC
+loadstring(game:HttpGet("https://scripts.city/LegendHub.lua"))()
+
+ForkT3 All-in-One
+loadstring(game:HttpGet("https://raw.githubusercontent.com/forkT3/Steal-a-Brianrot/main/Steal-A-Brianrot.lua"))()
+
+Nullptr Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Silentoffa/nullptr/refs/heads/main/hub"))()
+
+Arbix Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zenizmilen/script-steal-a-brainrot/refs/heads/main/follow-for-auto-steal-work"))()
+
+Luarmor Quick Steal
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/d7be76c234d46ce6770101fded39760c.lua"))()
+
+AnimeWare Moskvv Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MortalR/penzi-sorsr/refs/heads/main/script"))()
+
+Dupe Auto Steal
+loadstring(game:HttpGet("https://pastefy.app/zE4qd4WM/raw"))()
+
+Modded Script No Key
+loadstring(game:HttpGet("https://pastebin.com/raw/8Ed4cQdy"))()
+
+Overflow Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OverflowBGSI/Overflow/refs/heads/main/loader.txt"))()
+
+Hades Brainrot Fixed
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hades2548/steal-a-brainrot-fixed/refs/heads/main/Steal%20a%20brainrot%20script.lua"))()
+
+Lexar Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lexar130/Lexar/refs/heads/main/Jack"))()
+
+
+Murder Mystery 2
+ThunderHub MM2
+loadstring(game:HttpGet("https://raw.githubusercontent.com/thunderXhub/ThunderXHUB/refs/heads/main/loader"))()
+
+YARHM Script (Hitbox Expander)
+loadstring(game:HttpGet("https://yarhm.com"))()
+
+Nexus MM2 Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lkmojjla/Nexus/main/Mm2script"))()
+
+Script MM2 Delta Keyless
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gumanba/Scripts/main/mm2"))()
+
+Rufu MM2 Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lechayy/RufuMM2/refs/heads/main/MM2.lua"))()
+
+MINRHUB Unlock All Skins
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MineRoma/MRHUBNEW_UNI/refs/heads/main/mm2"))()
+
+Axonic MM2 (Silent Aim)
+loadstring(game:HttpGet("https://vss.pandauth.com/kv/7e9bd862da765a7b"))()
+
+RAGE HUB Script
+loadstring(game:HttpGet("https://pastebin.com/raw/rGHBMagb"))()
+
+MM2 Candy Farm 2026
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vexroxd/My-Script-/refs/heads/main/MM2-Candy-Farm"))()
+
+HARUNZ Hub Script
+loadstring(game:HttpGet("https://gist.githubusercontent.com/harunzyofficial-a11y/70f3b89497c2aca7bc096e00f3a0c551/raw/22b67aa4b96a05eaa32102574d1ea1eff577c0b6/gistfile1.txt"))()
+
+MM2 Hitbox & Teleport
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/8bc8ff54fc50fdd015c4c74509e41dd981e6a4e41062cd2d6bd50d817ccf6182/download"))()
+
+MM2 Keyless Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xXxEsze2woxXx/mm2/refs/heads/main/script.lua"))()
+
+Best Keyless Script MM2
+loadstring(game:HttpGet("https://pastebin.com/raw/e89Mn4Ec"))()
+
+MM2 Hitbox Aimbot ESP
+loadstring(game:HttpGet("https://pastefy.app/xA1rNaxN/raw"))()
+
+Vynixu Murder Mystery 2
+loadstring(game:GetObjects("rbxassetid://4001118261")[1].Source)()
+
+AYZEN HUB MM2
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ayzen-mm2/Loader/refs/heads/main/MM2.LUA"))()
+
+SP HUB (Mobile & PC)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/as6cd0/SP_Hub/refs/heads/main/Loader"))()
+
+AvoEZ Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AvoEZScripts/Murder-Mystery-2/refs/heads/main/AvoEZ%20Hub"))()
+
+SlixHub MM2
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Azura83/Murder-Mystery-2/refs/heads/main/Script.lua"))()
+
+Peachy Hub MM2
+loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/d37435894c260e0200d7c0cee1c5a4aea45602edb3ee1fa3c37726e2fe857ad5/download"))()
+
+Roblox MM2 Vertex
+loadstring(game:HttpGet("https://raw.smokingscripts.org/vertex.lua"))()
